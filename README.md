@@ -15,11 +15,14 @@ Always eager to learn new technologies and improve my skills.
 
 ## 📂 Projects
 
-### 🛒 [Online Shop](https://github.com/farhadmohammadipro-tech/Online-shop)  
+### 🌎 [About Vancouver](https://github.com/farhadmohammadipro-tech/Get-to-know-Vancouver)  
 A simple online shop built with Python. Demonstrates product management, cart functionality, and serves as a foundation for future e-commerce features.  
 
 ### 🐞 [Bug Types](https://github.com/farhadmohammadipro-tech/Bug-types)  
 A small project showcasing different bug categories, hosted live with GitHub Pages.  
+
+### 🎥 [Top 10 mystery movies](https://github.com/farhadmohammadipro-tech/Top-10-mystery-movies)
+A simple and elegant website showcasing the Top 10 Mystery Movies of all time. Built with HTML & CSS, featuring movie posters, IMDb ratings, trailers, and credits.
 
 ---
 
